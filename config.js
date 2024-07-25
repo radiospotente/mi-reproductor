@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Brasil Hits',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://streaming.brasilhits.com/acc',
+    'url_streaming': 'https://stream.zeno.fm/ckj7ftdlwkhtv',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
