@@ -9,10 +9,10 @@
 */
 
 var settings = {
-    'radio_name': 'Brasil Hits',
+    'radio_name': 'Radio de Prueba',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://stream.zeno.fm/ckj7ftdlwkhtv',
+    'url_streaming': 'https://zeno.fm/player/radio-uno-digital',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
