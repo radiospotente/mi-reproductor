@@ -12,7 +12,7 @@ var settings = {
     'radio_name': 'Radio de Prueba',
 
     // URL of streaming without / on the final, eg: http://streaming.com:8080
-    'url_streaming': 'https://zeno.fm/player/radio-uno-digital',
+    'url_streaming': 'https://stream-tools.zenomedia.com/content/stations/932c3085-7384-479f-bf04-9f2b5d07218b',
 
     // When choosing icecast, make sure the file 'player.log' in the document root is writeable.
     // Choose between 'shoutcast' or 'icecast'
